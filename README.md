@@ -1,4 +1,4 @@
 # Iso-M
-machine iso simple
+Machine iso simple
 
 Standard software
